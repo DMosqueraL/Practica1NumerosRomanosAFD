@@ -1,25 +1,8 @@
-# Practica1NumerosRomanosAFD
+# Practica N°1 Numeros Romanos AFD
+
 Practica 1 Teoría de Lenguajes y Lab. UdeA
 
-Símbolos de entrada: {I, V, X, L}
-
-Estados: {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
-
-Estado inicial: {0}
-
-Estados de Aceptación: {1, 2, 3, 4, 5, 6, 7, 8}
-
-Consideraciones importantes:
-
-No se permiten IIII (4 o más I’s seguidas).
-
-No se permiten XXXX (4 o más X’s seguidas).
-
-No se permiten más de una V en el número ingresado.
-
-No se permiten más de una L en el número ingresado.
-
-Las V y L no pueden restar (estar a la izquierda de un número).
+![image](https://user-images.githubusercontent.com/97240171/179436219-61f72c47-1a61-4c52-9f95-152c637b8906.png)
 
 
  ![image](https://user-images.githubusercontent.com/97240171/179436088-c4811939-c648-4293-a7ee-4573f7cce000.png)
