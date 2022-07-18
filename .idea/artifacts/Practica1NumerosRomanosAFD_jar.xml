@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Practica1NumerosRomanosAFD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Practica1NumerosRomanosAFD_jar</output-path>
+    <root id="archive" name="Practica1NumerosRomanosAFD.jar">
+      <element id="module-output" name="Practica1NumerosRomanosAFD" />
+    </root>
+  </artifact>
+</component>
